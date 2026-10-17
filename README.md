@@ -146,7 +146,7 @@ This is a demonstration application using mock in-memory data. It is not connect
 
 ## Demo Video
 
-**Recording:** Add your public 3–5 minute demo video link here.
+[Watch Pulse Operations Dashboard Demo](https://www.loom.com/share/4fde5471c08247a6bba431b48f9c80bc)
 
 The walkthrough should cover the overview, shipment filters and pagination, shipment details, carrier history, exception resolution, analytics, and responsive layout.
 
